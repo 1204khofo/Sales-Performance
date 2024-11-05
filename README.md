@@ -13,11 +13,13 @@
 [Data Analysis](#data-analysis)
 
  [Data Visualization](#data-visualization)
+ 
+ [Report}(#Report)
 
 ---
 ### Project Overview:
 ---
-The main objective of this project is to analyse the sales performance of a retail  store using specfic key metrics and generate actionable insights. This includes identifying top-selling products, assessing regional performance developing effective strategies, and improving operational efficiency. Additionally, we aim to craft compelling narratives around our data based on the insights gained 
+The main objective of this project is to analyse the sales performance of a retail  store using specific key metrics and generate actionable insights. This includes identifying top-selling products, assessing regional performance developing effective strategies, and improving operational efficiency. Additionally, we aim to craft compelling narratives around our data based on the insights gained 
 
 ### Data Sources 
 ---
@@ -48,7 +50,7 @@ EDA involves the exploring of the data to answer some questions about the Data s
 
 ### Data Analysis 
 ---
-This is where we include basic lines of code or queries used during anlysis 
+This is where we include basic lines of code or queries used during analysis 
 ```SQL
 ----------Number Of Sales Transctions In Each Region--------------
 SELECT Region, count(*) as 
@@ -86,5 +88,9 @@ GROUP BY Region;
 ![Sales Pivot](https://github.com/user-attachments/assets/ee1c246a-5e0b-41d0-ad1b-47792a70f7f3)
 
 ![Sales Performance Report](https://github.com/user-attachments/assets/9f515678-dd11-4097-a152-59ff31b9eeba)
+
+
+### Report 
+
 
 
