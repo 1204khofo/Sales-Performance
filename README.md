@@ -24,7 +24,7 @@ In tha inital phase of the Data cleaning and Preparations, we perform the follow
 
 ### Exploratory Data Analysis 
 EDA involves the exploring of the data to answer some questions about the Data such as;
- -What is the overall sales trend 
- -Which products are top selling products 
- -What are the Regional Performances
+ - What is the overall sales trend 
+ - Which products are top selling products 
+ - What are the Regional Performances
 
