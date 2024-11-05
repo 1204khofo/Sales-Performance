@@ -1,8 +1,22 @@
 # Capstone Project
 
-### Project Topic: Sales Performance 
+### Project Topic: Sales Performance
+
+[Project Overview](#project-overview)
+
+[Tools Used]
+
+[Data Cleaning and Preparations]
+
+[Exploratory Data Analysis]
+
+[Data Analysis]
+
+ [Data Visualization]
+
 ---
 ### Project Overview:
+---
 The main objective of this project is to analyse the sales performance of a retail  store using specfic key metrics and generate actionable insights. This includes identifying top-selling products, assessing regional performance developing effective strategies, and improving operational efficiency. Additionally, we aim to craft compelling narratives around our data based on the insights gained 
 
 ### Data Sources 
@@ -72,3 +86,5 @@ GROUP BY Region;
 ![Sales Pivot](https://github.com/user-attachments/assets/ee1c246a-5e0b-41d0-ad1b-47792a70f7f3)
 
 ![Sales Performance Report](https://github.com/user-attachments/assets/9f515678-dd11-4097-a152-59ff31b9eeba)
+
+
