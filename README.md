@@ -67,3 +67,8 @@ FROM [dbo].[LITA_CapstoneDataset]
 GROUP BY Region;
 ```
 
+### Data Visualization
+
+![Sales Pivot](https://github.com/user-attachments/assets/ee1c246a-5e0b-41d0-ad1b-47792a70f7f3)
+
+![Sales Performance Report](https://github.com/user-attachments/assets/9f515678-dd11-4097-a152-59ff31b9eeba)
