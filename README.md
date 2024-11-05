@@ -14,7 +14,7 @@
 
  [Data Visualization](#data-visualization)
  
- [Report}(#Report)
+ [Report](#report)
 
 ---
 ### Project Overview:
