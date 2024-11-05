@@ -14,3 +14,10 @@ The main source of data utilized in this analysis is a Sales.csv file, which is 
 - SQL- Structured Query Language for  Querying of Data 
 - Power BI for Visualization
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations 
+In tha inital phase of the Data cleaning and Preparations, we perform the following actions;
+ 1. Data loading and Inspection
+ 2. Handling missing Variables
+ 3. Removing Duplicates 
+ 4. Data Cleaning and Formatting 
