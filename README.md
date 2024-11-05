@@ -9,7 +9,8 @@ The main objective of this project is to analyse the sales performance of a reta
 The main source of data utilized in this analysis is a Sales.csv file, which is an open-source dataset that can be freely downloaded from various online platforms.
 
 ### Tools Used
-- Microsoft Excel[Download Here](https://www.microsoft.com) for Data Cleaning, Analysis and Visualization 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+   - for Data Cleaning, Analysis and Visualization 
 - SQL- Structured Query Language for  Querying of Data 
 - Power BI for Visualization
 - GitHub for Portfolio Building
