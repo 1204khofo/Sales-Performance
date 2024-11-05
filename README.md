@@ -20,4 +20,11 @@ In tha inital phase of the Data cleaning and Preparations, we perform the follow
  1. Data loading and Inspection
  2. Handling missing Variables
  3. Removing Duplicates 
- 4. Data Cleaning and Formatting 
+ 4. Data Cleaning and Formatting
+
+### Exploratory Data Analysis 
+EDA involves the exploring of the data to answer some questions about the Data such as;
+ -What is the overall sales trend 
+ -Which products are top selling products 
+ -What are the Regional Performances
+
